@@ -11,7 +11,7 @@
 		"@clayui/loading-indicator": "3.111.0",
 		"@clayui/modal": "3.111.0",
 		"@clayui/nav": "3.111.0",
-		"@clayui/pagination": "3.111.0",
+		"@clayui/pagination": "3.136.2",
 		"@clayui/table": "3.111.0",
 		"@clayui/tabs": "3.111.0",
 		"@liferay/frontend-js-react-web": "*",
